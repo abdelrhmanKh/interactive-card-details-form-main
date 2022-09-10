@@ -87,11 +87,12 @@ cvcInput.addEventListener("keyup", (e) => {
 
 submitBtn.addEventListener("click", (e) => {
     e.preventDefault()
-    if (nameInput.innerText != "" && numInput.innerText != "" && monthInput.innerText != "" && yearInput.innerText != "" && cvcInput.innerText != "") {
+    console.log(!nameInput.value == "")
+    if (!nameInput.value == "" && !numInput.value == "" && !monthInput.value == "" && !yearInput.value == "" && !cvcInput.value == "") {
         form.classList.add("none")
         thanksDiv.classList.remove("none")
     } else {
-        nameInput.innerText === "" ? nameInput.focus() : numInput.innerText == "" ? numInput.focus() : monthInput.innerText == "" ? monthInput.focus() : yearInput.innerText == "" ? yearInput.focus() : cvcInput.focus()
+        nameInput.value === "" ? nameInput.focus() : numInput.value == "" ? numInput.focus() : monthInput.value == "" ? monthInput.focus() : yearInput.value == "" ? yearInput.focus() : cvcInput.focus()
     }
 })
 
