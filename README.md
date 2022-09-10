@@ -30,12 +30,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/screencapture.png)
+![](./design/screencapture-th.png)
+![](./design/screencapture-m.png)
+![](./design/screencapture-m-th.png)
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/interactivecarddetailsformmain-VK-2L1HzK3)
+- Live Site URL: [live site URL here](https://abdelrhmankh.github.io/interactive-card-details-form-main/)
 
 ## My process
 
@@ -53,6 +56,6 @@ The Best understanding of the Style and how to improve the Css code with better 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [AbdelRahman Khalil](https://abdelrhmankh.github.io/abdelrhmankhalil/)
+- Frontend Mentor - [@abdelrhmanKh](https://www.frontendmentor.io/profile/abdelrhmanKh)
+- LinkedIn - [@Abdelrhman-khalil](https://www.linkedin.com/in/abdelrhman-khalil-ali-9716a0188/)
